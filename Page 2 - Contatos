@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="imagens.css">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Objetivos</title>
+</head>
+
+<body>
+<nav class="pg2_navegação">
+        <a href="/projetos/html/Reading Page/index.html" id="inicio"> Inicio </a>
+        <a class="pg2_Objetivos"> Objetivos </a>
+        <a href="/projetos/html/Reading Page/Formação.html" id="formação"> Formação </a>
+        <a href="/projetos/html/Reading Page/Contatos.html" id="contatos1"> Contatos </a>
+</nav>
+
+<article>
+<img class="pg2_Component " src="/projetos/html/Reading Page/imagens/Componente 9.png" alt="Componente 9">
+<img class="line2" src="/projetos/html/Reading Page/imagens/Line 2.png" alt="Line 2">
+<section class="pg2_container_esquerdo">
+            <h1 class="pg2_titulo1">Sobre mim</h1>
+            <p class="pg2_conteudo1">18 anos.<br>Jardim Gramado, São Gabriel do Oeste.<br>(47) 9 9103-7889<br>andradeir17@gmail.com</p>
+        </section>
+    <section class="pg2_container_direito">
+            <h1 class="pg2_titulo2">Objetivos</h1>
+            <p class="pg2_conteudo2">Busco emprego estável, a fins <br> de acumular experiência no <br> mercado de trabalho, além de<br>aumentar minhas habilidades e <br> meu desempenho. Possuo maior aptidão para<br> áreas/funções voltadas para tecnologia.</p>
+        </section>
+</article>
+
+</body>
+</html>
