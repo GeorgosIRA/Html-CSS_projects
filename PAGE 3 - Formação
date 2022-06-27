@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formação</title>
+</head>
+
+<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="imagens.css">
+
+<body>
+    <nav class="pg3_navegação"> 
+        <a href="/projetos/html/Reading Page/index.html" id="inicio"> Inicio </a>
+        <a href="/projetos/html/Reading Page/Objetivos.html" id="objetivos"> Objetivos </a>
+        <a class="pg3_Formação"> Formação </a>
+        <a href="/projetos/html/Reading Page/contatos.html" id="contatos1"> Contatos </a>
+    </nav>
+
+    <main>
+        <img class="pg3_Component " src="/projetos/html/Reading Page/imagens/Component 10.png" alt="Component 10">        
+        <img class="line3" src="/projetos/html/Reading Page/imagens/Line 1.png" alt="Line 3">
+        <section class="pg3_titulo_esquerdo">
+            <h1 class="tituloF">Formação</h1>
+            <p class="contudoF">Sesi Senai SC - Ensino Médio<Br>Completo(Conclusão 2020)</p>   
+    </section>
+    <section class="pg3_titulo_direito">
+            <h1 class="tituloE">Especialização</h1>
+            <p class="contudoE">Sesi Senai SC - Técnico em linguagens de <br>programação e manutenção de hardwares.</p>   
+    </section>        
+    </main>
+</body>
+</html>
