@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="PT-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contatos</title>
+</head>
+
+<header>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="imagens.css">
+</header>
+
+<body>
+        <a href="/projetos/html/Reading Page/index.html" id="home" class="home" style='font-size:50px;color:rgb(14,92,243);'> &#10096 </a>
+    </nav>
+
+    <main>
+        <section class="pg4_titulo">
+            <h1 class="tituloQ">Qualidades</h1>
+            <p class="conteudoQ">Proatividade;<Br>Noção básica em manutenção<Br>de hardwares e softwares;<Br>Flexibilidade referente às<Br>condições de trabalho;<Br>Disponibilidade de horário;<Br>Fácil aprendizagem.</p> 
+        </section>
+        <a class="contatos"> contatos:</a>
+    </main> 
+
+    <section>
+        <img class="pg4_Component " src="/projetos/html/Reading Page/imagens/Component 11.png" alt="Component 11">
+        <img class="line4" src="/projetos/html/Reading Page/imagens/Line 1.png" alt="Line 4">
+            <div class="icones_contatos">
+                <a href="https://github.com/GeorgosIRA" id="git">
+                    <img src="/projetos/html/Reading Page/imagens/GitHub.png" alt="git">
+                
+                <a href="https://www.instagram.com/igor_adrd/" id="inst"  a>
+                    <img src="/projetos/html/Reading Page/imagens/Instagram.png" alt="Instagram" id="inst">
+                
+                <a href="https://www.linkedin.com/in/igor-rafael-andrade-635a03231" src="/projetos/html/Reading Page/imagens/LinkedIn Circled.png" id="link">
+                    <img src="/projetos/html/Reading Page/imagens/LinkedIn Circled.png" alt="LinkedIn" id="linkD">
+                
+                <a href="https://chat.whatsapp.com/J9mRBeMpN9RHal7IhTxhsG" id="Zap">
+                    <img href="https://chat.whatsapp.com/J9mRBeMpN9RHal7IhTxhsG" src="/projetos/html/Reading Page/imagens/WhatsApp.png" alt="WhatsApp" id="Zap">
+            </div>
+    </section>
+</body>
+</html>
